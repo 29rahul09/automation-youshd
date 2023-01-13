@@ -1,0 +1,22 @@
+{
+  "name": "automation-youshd",
+  "version": "1.0.0",
+  "description": "youshd automation flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/29rahul09/automation-youshd.git"
+  },
+  "author": "rahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/29rahul09/automation-youshd/issues"
+  },
+  "homepage": "https://github.com/29rahul09/automation-youshd#readme",
+  "dependencies": {
+    "puppeteer": "^19.5.2"
+  }
+}
